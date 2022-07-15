@@ -23,7 +23,7 @@ Aplicação com intuito de criar uma pokedéx, site onde você pode ver os detal
 
 ##  🎯Objetivo do Projeto
 
-Este é um projeto de Front-end , desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender : A aplicação de API'S, utilização de rotas e estilização.
+Este é um projeto de Front-end desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender : A aplicação de API'S, utilização de rotas e estilização.
 
 Tecnologias utilizadas: HTML, CSS, Javascript, React.JS, Styled-Components, React Hooks, Api Restful, Material-UI, Git e GitHub
 
