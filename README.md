@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99096015/179013510-d1da8912-d5c9-445e-8e63-df7836406d58.png)
+![Pokedex](https://user-images.githubusercontent.com/99096015/179013510-d1da8912-d5c9-445e-8e63-df7836406d58.png)
 
 ---
 
